@@ -1,27 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact I think I'm full of motivation
+# Hi, I'm Nick Wilsan 👋
 
+**Aspiring Product Manager** · Information Systems @ Universitas Brawijaya · PM Bootcamp @ Harisenin.com
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nickwilsan90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilsan_nick._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-wilsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wilsannick55@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nick-Wilsan&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nick-Wilsan&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Wilsan&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nick-Wilsan&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nick-Wilsan&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+I build products that start with evidence, not assumptions. Before writing a single requirement, I ask: *what does the data actually say?*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nick-Wilsan&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 What I Do
+
+```
+User Research  →  Problem Definition  →  Prioritization  →  PRD  →  Roadmap
+```
+
+I integrate **AI tools into every stage of the PM workflow** — from synthesizing qualitative research to writing ML-informed acceptance criteria that engineers can actually build to.
+
+---
+
+## 📦 Featured Project
+
+### TravelWise AI — AI-Powered Multi-Modal Travel Aggregator
+> *96.7% of Indonesian students use 3+ travel apps per search. 100% have experienced buyer's remorse.*
+
+A full PM case study: user research (n=30) → RICE prioritization → PRD → Figma wireframes → OKR-style success metrics.
+
+**Key deliverables:**
+- 5 user stories with acceptance criteria
+- RICE scoring across 5 candidate features
+- ML-informed requirements for the AI cross-modal matching engine
+- Product roadmap Q1–Q3 2026
+
+[![View Case Study](https://img.shields.io/badge/View_Case_Study-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://nickwilsan-portfolio.vercel.app/case/travelwise)
+[![View PRD](https://img.shields.io/badge/View_Full_PRD-1A1A2E?style=for-the-badge&logo=googledocs&logoColor=white)](https://nickwilsan-portfolio.vercel.app)
+
+---
+
+## 🛠️ PM Toolkit
+
+![Product Management](https://img.shields.io/badge/Product_Management-0A0A0A?style=flat-square)
+![PRD Writing](https://img.shields.io/badge/PRD_Writing-0A0A0A?style=flat-square)
+![User Research](https://img.shields.io/badge/User_Research-0A0A0A?style=flat-square)
+![RICE Prioritization](https://img.shields.io/badge/RICE_Prioritization-0A0A0A?style=flat-square)
+![OKR / Success Metrics](https://img.shields.io/badge/OKR_%2F_Success_Metrics-0A0A0A?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-0A0A0A?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=flat-square)
+
+**Technical depth:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![ML Pipelines](https://img.shields.io/badge/ML_Pipelines_(Prophet,_Sklearn)-3670A0?style=flat-square)
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nickwilsan-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-wilsan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilsannick55@gmail.com)
+
+---
+
+*Open to remote PM internships — product discovery, requirement definition, evidence-based roadmaps.*
